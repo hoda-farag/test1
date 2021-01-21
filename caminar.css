@@ -1,0 +1,177 @@
+.title{
+    text-align: center;
+    background-attachment: fixed;
+    background-image:url("img/back.jpg") ;
+    font-family:cursive;
+    background-size:cover;
+    background-position:center;
+}
+/*top*/
+.title p1{
+    color: white;
+    font-size: 90px;
+
+}
+
+.title p2{
+    color:rgb(175, 174, 174);
+
+}
+.title .imag1{
+    width: 1000px;
+   margin-left: 12.5%;
+   margin-right: 12.5%;
+   padding-top: 5%;
+}
+/* seconed part*/
+.title .fri{
+    padding: 5%;
+    background-color: white;
+    width: auto;
+    height: 100px;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+  border: 0px;
+
+}
+.title h3{
+    font-size: 35px;
+}
+.title p3{
+    color:rgb(175, 174, 174) ;
+}
+.title .pragraph{
+    background-color:rgb(230, 229, 229);
+    color:rgb(175, 174, 174);
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    padding: 5%;
+    font-size: 20px;
+    
+}
+/*part3*/
+.title .part2{
+    background-color: rgb(49, 49, 49);
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    padding: 1%;
+}
+.title .part2 .sec{
+    background-color: black; 
+    margin-left: 10%;
+    margin-right: 10%; 
+    height: 150px;
+    line-height: 50px;
+}
+/*paragraphs*/
+.title .part2 .sec h2{
+    color: white;
+    font-size: 40px;
+}
+.title .part2 .sec p5{
+    color: rgb(179, 178, 178) ;
+}
+
+.title .part2 .p5{
+    background-color: rgb(179, 178, 178);
+    width: 600px;
+    height: 525px;
+    padding-top: 3%;
+}
+.title .part2 .p5 h2{
+    font-size: 40px;
+
+}
+.title .part2 .p5 p5{
+    font-size: 25px;
+}
+/*imges*/
+.title .part2 .container {
+    margin-top: 10%;
+}
+.title .part2 .part1{
+    height: 500px;
+    padding: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.part2 .imges1{
+    display: flex;
+    
+}
+.title .part2 .imges1 .img1{
+    
+    width: 50%;
+    height: 250px;
+}
+.title .part2 .imges1 .img2{
+    
+    width: 50%;
+    height: 250px;
+}
+.part2 .imges2{
+    display: flex;
+    
+}
+
+.title .part2 .imges2 .img3{
+    width: 50%;
+    height: 250px;
+}
+.title .part2 .imges2 .img4{
+   
+    width:50%;
+    height: 250px;
+}
+.title .part2 .imges3{
+    height: 400px;
+     display: flex;
+   
+}
+.title .part2 .imges3 .img5{
+    height: 400px;
+    width: 100%;
+   
+}
+.title .part2 .imges3 .p5{
+    height:  400px;
+    width: 100%;
+}
+.title .part2 .imges4{
+    display: flex;
+    width: 100%; 
+    height: 400px; 
+    flex-direction: row-reverse;
+}
+.title .part2 .imges4 .img-6{
+    width: 100%;
+    height: 100%;
+}
+.title .part2 .p6{
+    background-color: rgb(49, 49, 49);
+    width:100%;
+    height:100% ;
+    padding: 3%;
+   font-size: 25px;
+}
+.title .part2 .imges5{
+    display: flex;
+    width: 100%; 
+    height: 400px; 
+    flex-direction: row;
+}
+.title .part2 .imges5 .img-7{
+    width: 100%;
+    height: 100%;
+}
+.title .part2 .imges5 .p7{
+    background-color: rgb(214, 211, 211);
+    width:100%;
+    height:400px;
+   font-size: 25px;
+}
+/*end*/
+.end{
+    padding: 4%;
+    font-size: 25px;
+}
